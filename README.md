@@ -23,7 +23,6 @@ Application-Sample-Code
 |   USBD  |  NUC122 | [Selective_Suspend](http://www.nuvoton.com/opencms/resource-download.jsp?tp_GUID=EC0120151216134257) | Support USB Selective Suspend function:  
 *  1.Need to declare USB 2.0 device   
 *  2.Add 0xee to String descriptor  
-*  3.Support vender command *  
-4.Support Windows 8 or later  
-|
+*  3.Support vender command 
+*  4.Support Windows 8 or later  |
 |   USBD  |  NUC123 | [Vender_Command](http://www.nuvoton.com/opencms/resource-download.jsp?tp_GUID=EC0120151216134432) | Vender command sends data through the control transfer. There are three steps: setup, data and status. | 

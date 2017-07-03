@@ -9,3 +9,9 @@ Application-Sample-Code
 - [Selective_Suspend](http://www.nuvoton.com/opencms/resource-download.jsp?tp_GUID=EC0120151216134257)
 - [Dual_IO](http://www.nuvoton.com/opencms/resource-download.jsp?tp_GUID=EC0120151216134343)
 - [Vender_Command](http://www.nuvoton.com/opencms/resource-download.jsp?tp_GUID=EC0120151216134432)
+
+
+| Main Function | Product  | Code | Description |
+| ------------- | -------- | ---- | ----------- |
+|      ADC      |    M051  | Measure_Internal_Temperature_Sensor | Transform band-gap voltage through ADC7, and then use band-gap voltage to calculate ADC reference voltage. After that, use ADC7 to transform the value detected by a temperature sensor to calculate the voltage of temperature sensor. |
+| Mike       |  32 |

@@ -26,3 +26,6 @@ Application-Sample-Code
 *  3.Support vender command 
 *  4.Support Windows 8 or later  |
 |   USBD  |  NUC123 | [Vender_Command](http://www.nuvoton.com/opencms/resource-download.jsp?tp_GUID=EC0120151216134432) | Vender command sends data through the control transfer. There are three steps: setup, data and status. | 
+
+
+<td style="word-break:break-all;white-space:nowrap">*  3.Support vender command </td>

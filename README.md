@@ -13,6 +13,5 @@ Application-Sample-Code
 
 | Main Function | Product  | Code | Description |
 | :-----------: | :------: | :--: | :---------: |
-| :----: | :----: | :----: | :----: |
-|      ADC      |    M051  | [Measure_Internal_Temperature_Sensor](http://www.nuvoton.com/opencms/resource-download.jsp?tp_GUID=EC0120151216133639) | Transform band-gap voltage through ADC7, and then use band-gap voltage to calculate ADC reference voltage. After that, use ADC7 to transform the value detected by a temperature sensor to calculate the voltage of temperature sensor. |
-
+|      ADC      |   M051   | [Measure_Internal_Temperature_Sensor](http://www.nuvoton.com/opencms/resource-download.jsp?tp_GUID=EC0120151216133639) | Transform band-gap voltage through ADC7, and then use band-gap voltage to calculate ADC reference voltage. After that, use ADC7 to transform the value detected by a temperature sensor to calculate the voltage of temperature sensor. |
+|   Composite   |  Mini51 | [DC_Fan_Speed_Control](http://www.nuvoton.com/opencms/resource-download.jsp?tp_GUID=EC0120151216133919) | The fan speed is captured by Timer0 Capture, and then adjusted through PWM2. |

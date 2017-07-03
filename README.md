@@ -1,15 +1,5 @@
 Application-Sample-Code
 -----------------------
-- [DC_Fan_Speed_Control](http://www.nuvoton.com/opencms/resource-download.jsp?tp_GUID=EC0120151216133919)
-- [Master_Slave_communication](http://www.nuvoton.com/opencms/resource-download.jsp?tp_GUID=EC0120151216134016)
-- [PWM_trigger_ADC_and_PWM_Brake_function](http://www.nuvoton.com/opencms/resource-download.jsp?tp_GUID=EC0120151216134105)
-- [Measure_Internal_Temperature_Sensor](http://www.nuvoton.com/opencms/resource-download.jsp?tp_GUID=EC0120151216133639)
-- [SoftwareUART](http://www.nuvoton.com/opencms/resource-download.jsp?tp_GUID=EC0120151216133807)
-- [HID_Keyboard_Mouse_w_MultiMediakeys](http://www.nuvoton.com/opencms/resource-download.jsp?tp_GUID=EC0120151216134204)
-- [Selective_Suspend](http://www.nuvoton.com/opencms/resource-download.jsp?tp_GUID=EC0120151216134257)
-- [Dual_IO](http://www.nuvoton.com/opencms/resource-download.jsp?tp_GUID=EC0120151216134343)
-- [Vender_Command](http://www.nuvoton.com/opencms/resource-download.jsp?tp_GUID=EC0120151216134432)
-
 
 | Main Function | Product  | Code | Description |
 | :-----------: | :------: | :--: | :---------  |
